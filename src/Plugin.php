@@ -9,7 +9,7 @@ use Cake\Database\TypeFactory;
 use Josegonzalez\Upload\Database\Type\FileType;
 
 /**
- * Plugin class.
+ * Yeo class.
  */
 class Plugin extends BasePlugin
 {
